@@ -1,3 +1,5 @@
+# AS I USED FIREBASE FOR DATABASE(STORING THE LOCATION & MESSAGES), LOGIN AND AUTH IN THIS PROJECT, THE FREE VERSION OF MY FIREBASE IS GET EXPIRED HENCE I AM UNABLE TO CONNECT THE SNIPPETS OF THE PROJECT. I AM REALLY  APOLOGIZE FOR THAT!   
+
 Here's a README file for your GitHub repository [flutter-chit-chat](https://github.com/raunakmankapure/flutter-chit-chat):
 
 ---
@@ -12,12 +14,10 @@ Welcome to **Flutter Chit Chat**! This project is a real-time chat application b
 
 - **Real-time Messaging**: Instant communication with live updates.
 - **User Authentication**: Secure user login and registration.
-- **Group Chats**: Create and join group conversations.
 - **Push Notifications**: Receive alerts for new messages.
 - **Media Sharing**: Share images, videos, and other media.
 - **Emojis and GIFs**: Express yourself with a variety of emojis and GIFs.
 - **User Profiles**: View and edit user information.
-- **Search Functionality**: Easily find and chat with other users.
 
 ## Installation
 
@@ -89,3 +89,5 @@ We welcome contributions from the community! To contribute, please follow these 
 
 
 Feel free to customize this README file to better fit your project and preferences!
+
+
